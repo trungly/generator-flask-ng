@@ -1,6 +1,6 @@
-# generator-flask-ng [![Build Status](https://secure.travis-ci.org/trungly/generator-flask-ng.png?branch=master)](https://travis-ci.org/trungly/generator-flask-ng)
+# generator-flask-ng
 
-> [Yeoman](http://yeoman.io) generator
+> A [Yeoman](http://yeoman.io) generator for creating a very simple (Python) Flask and Angular project.
 
 
 ## Getting Started
@@ -29,19 +29,12 @@ To install generator-flask-ng from npm, run:
 npm install -g generator-flask-ng
 ```
 
-Finally, initiate the generator:
+Finally, run the generator and follow the prompts:
 
 ```bash
 mkdir my-app && cd my-app
 yo flask-ng
 ```
-
-### Getting To Know Yeoman
-
-Yeoman has a heart of gold. He's a person with feelings and opinions, but he's very easy to work with. If you think he's too opinionated, he can be easily convinced.
-
-If you'd like to get to know Yeoman better and meet some of his friends, [Grunt](http://gruntjs.com) and [Bower](http://bower.io), check out the complete [Getting Started Guide](https://github.com/yeoman/yeoman/wiki/Getting-Started).
-
 
 ## License
 
