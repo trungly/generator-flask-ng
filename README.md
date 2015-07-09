@@ -32,6 +32,7 @@ npm install -g generator-flask-ng
 Finally, initiate the generator:
 
 ```bash
+mkdir my-app && cd my-app
 yo flask-ng
 ```
 
